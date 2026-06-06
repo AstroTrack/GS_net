@@ -1,0 +1,6 @@
+@AstroTrack_HostAddress = http://localhost:5166
+
+GET {{AstroTrack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
