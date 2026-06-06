@@ -437,20 +437,4 @@ AGENDADA | EM_ANDAMENTO | FINALIZADA | CANCELADA
 
 ---
 
-##  Como fazer o deploy (Render)
-
-1. Suba o projeto para o GitHub
-2. Acesse [render.com](https://render.com) e crie uma conta
-3. Clique em **New → Web Service**
-4. Conecte o repositório GitHub
-5. Configure:
-   - **Runtime:** Docker ou .NET
-   - **Build Command:** `dotnet publish -c Release -o out`
-   - **Start Command:** `dotnet out/AstroTrack.dll`
-6. Adicione a variável de ambiente `ConnectionStrings__OracleConnection` com sua string de conexão
-7. Clique em **Deploy**
-8. Atualize os links no topo deste README
-
----
-
 *Projeto desenvolvido para a Global Solution 2026/1 — FIAP*
