@@ -24,7 +24,7 @@
 |  Swagger (documentação interativa) | [Acessar Swagger](_LINK_DO_DEPLOY_AQUI_) |
 |  Vídeo de Demonstração (até 10 min) | [Assistir no YouTube](_LINK_DO_VIDEO_DEMONSTRACAO_AQUI_) |
 |  Vídeo Pitch (até 3 min) | [Assistir no YouTube](_LINK_DO_VIDEO_PITCH_AQUI_) |
-|  Repositório GitHub | [Acessar repositório](_https://github.com/AstroTrack/GS_net_) |
+|  Repositório GitHub | [Acessar repositório](https://github.com/AstroTrack/GS_net) |
 
 ---
 
