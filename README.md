@@ -16,7 +16,7 @@
 
 ---
 
-## 🔗 Links
+##  Links
 
 | Recurso | Link |
 |---------|------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **AstroTrack** é um sistema de rastreamento de frotas voltado para regiões sem cobertura de internet terrestre — as chamadas **"Zonas de Sombra"**. Utilizando infraestrutura de satélite como meio de comunicação, o sistema permite que gestores monitorem a localização e o status de veículos em tempo real, independentemente da disponibilidade de sinal 4G/5G.
 
