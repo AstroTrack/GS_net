@@ -20,7 +20,7 @@
 
 | Recurso | Link |
 |---------|------|
-|  Deploy (API pública) | [Acessar API](_LINK_DO_DEPLOY_AQUI_) |
+|  Deploy (API pública) | [Acessar API](https://astrotrack-net-api.onrender.com/index.html) |
 |  Swagger Local (documentação interativa) | [Acessar Swagger](http://localhost:5166) |
 |  Vídeo de Demonstração (até 10 min) | [Assistir no YouTube](_LINK_DO_VIDEO_DEMONSTRACAO_AQUI_) |
 |  Vídeo Pitch (até 3 min) | [Assistir no YouTube](_LINK_DO_VIDEO_PITCH_AQUI_) |
