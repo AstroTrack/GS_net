@@ -21,7 +21,7 @@
 | Recurso | Link |
 |---------|------|
 |  Deploy (API pública) | [Acessar API](_LINK_DO_DEPLOY_AQUI_) |
-|  Swagger (documentação interativa) | [Acessar Swagger](_LINK_DO_DEPLOY_AQUI_) |
+|  Swagger Local (documentação interativa) | [Acessar Swagger](http://localhost:5166) |
 |  Vídeo de Demonstração (até 10 min) | [Assistir no YouTube](_LINK_DO_VIDEO_DEMONSTRACAO_AQUI_) |
 |  Vídeo Pitch (até 3 min) | [Assistir no YouTube](_LINK_DO_VIDEO_PITCH_AQUI_) |
 |  Repositório GitHub | [Acessar repositório](https://github.com/AstroTrack/GS_net) |
@@ -44,6 +44,12 @@ Um dispositivo IoT instalado no veículo coleta dados de localização GPS e sta
 ```
 AstroTrack/
 ├── Controllers/              # Endpoints HTTP (Auth, Cliente, Motorista, Veiculo, Viagem, Checkpoint)
+│   ├── AuthController.cs
+│   ├── ClienteController.cs
+│   ├── VeiculoController.cs
+│   ├── ViagemController.cs
+│   ├── CheckpointController.cs
+│   └── MotoristaController.cs
 ├── Models/                   # Entidades mapeadas para o banco Oracle
 │   ├── Cliente.cs
 │   ├── Motorista.cs
