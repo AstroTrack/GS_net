@@ -23,7 +23,7 @@
 |  Deploy (API pública) | [Acessar API](https://astrotrack-net-api.onrender.com/index.html) |
 |  Swagger Local (documentação interativa) | [Acessar Swagger](http://localhost:5166) |
 |  Vídeo de Demonstração (até 8 min) | [Assistir no YouTube](https://www.youtube.com/watch?v=BBTD6C4_pqk) |
-|  Vídeo Pitch (até 3 min) | [Assistir no YouTube](_LINK_DO_VIDEO_PITCH_AQUI_) |
+|  Vídeo Pitch (até 3 min) | [Assistir no YouTube](https://www.youtube.com/watch?v=nHatFjcTgdI) |
 |  Repositório GitHub | [Acessar repositório](https://github.com/AstroTrack/GS_net) |
 
 ---
